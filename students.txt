@@ -1,0 +1,5 @@
+id, name, gender
+1, John, Male
+2, Farah, Female
+3, Abdi, Male
+4, Halima, Female
